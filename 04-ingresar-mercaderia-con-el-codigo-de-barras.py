@@ -1,3 +1,8 @@
+###
+Instalar el modulo opencv 
+(pip install pyzbar pillow opencv-python)
+###
+
 import cv2
 from pyzbar.pyzbar import decode
 from tkinter import *
